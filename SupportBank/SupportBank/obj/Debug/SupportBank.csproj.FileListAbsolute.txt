@@ -1,0 +1,7 @@
+c:\users\tara burditt\source\repos\SupportBank\SupportBank\bin\Debug\SupportBank.exe.config
+c:\users\tara burditt\source\repos\SupportBank\SupportBank\bin\Debug\SupportBank.exe
+c:\users\tara burditt\source\repos\SupportBank\SupportBank\bin\Debug\SupportBank.pdb
+c:\users\tara burditt\source\repos\SupportBank\SupportBank\obj\Debug\SupportBank.csproj.CoreCompileInputs.cache
+c:\users\tara burditt\source\repos\SupportBank\SupportBank\obj\Debug\SupportBank.exe
+c:\users\tara burditt\source\repos\SupportBank\SupportBank\obj\Debug\SupportBank.pdb
+c:\users\tara burditt\source\repos\SupportBank\SupportBank\obj\Debug\SupportBank.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Work\Task 3\Json File\Json File\bin\Debug\Json File.exe.config
+C:\Work\Task 3\Json File\Json File\bin\Debug\Json File.exe
+C:\Work\Task 3\Json File\Json File\bin\Debug\Json File.pdb
+C:\Work\Task 3\Json File\Json File\bin\Debug\Newtonsoft.Json.dll
+C:\Work\Task 3\Json File\Json File\bin\Debug\NLog.dll
+C:\Work\Task 3\Json File\Json File\bin\Debug\Newtonsoft.Json.xml
+C:\Work\Task 3\Json File\Json File\bin\Debug\NLog.xml
+C:\Work\Task 3\Json File\Json File\obj\Debug\Json File.csprojResolveAssemblyReference.cache
+C:\Work\Task 3\Json File\Json File\obj\Debug\Json File.csproj.CoreCompileInputs.cache
+C:\Work\Task 3\Json File\Json File\obj\Debug\Json File.exe
+C:\Work\Task 3\Json File\Json File\obj\Debug\Json File.pdb
